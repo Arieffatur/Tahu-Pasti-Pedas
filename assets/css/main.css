@@ -974,9 +974,9 @@ section,
 
 .features .nav-link {
   border: 0;
-  padding: 1px 5px;
+  padding: 25px 20px;
   color: var(--color-secondary);
-  box-shadow: 2px 2px 5px #000000;
+  box-shadow: 5px 5px 25px color-mix(in srgb, var(--default-color), transparent 92%);
   border-radius: 30px;
   display: flex;
   align-items: center;
@@ -992,15 +992,14 @@ section,
 }
 
 .features .nav-link i {
-  font-size: 15px;
+  font-size: 32px;
   line-height: 0;
 }
 
-.features .nav-link h2 {
-  font-size: 5px;
-  text-align: center;
+.features .nav-link h4 {
+  font-size: 20px;
   font-weight: 600;
-  margin: 0 0 0 0;
+  margin: 10px 0 0 0;
 }
 
 .features .nav-link:hover {
