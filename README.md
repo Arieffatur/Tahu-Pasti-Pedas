@@ -1,1 +1,0 @@
-# Tahu-Pasti-Pedas
